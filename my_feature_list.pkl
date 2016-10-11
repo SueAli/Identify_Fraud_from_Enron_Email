@@ -1,0 +1,16 @@
+(lp0
+S'poi'
+p1
+aS'exercised_stock_options'
+p2
+aS'total_stock_value'
+p3
+aS'bonus'
+p4
+aS'deferred_income'
+p5
+aS'from_poi_to_this_person_perc'
+p6
+aS'from_this_person_to_poi_perc'
+p7
+a.
